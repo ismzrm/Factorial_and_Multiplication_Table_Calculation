@@ -1,0 +1,17 @@
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.Form1.resources
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.Form2.resources
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.vbproj.GenerateResource.cache
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.AssemblyInfoInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.AssemblyInfo.vb
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.vbproj.CoreCompileInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\bin\Debug\net8.0-windows\vb.exe
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\bin\Debug\net8.0-windows\vb.deps.json
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\bin\Debug\net8.0-windows\vb.runtimeconfig.json
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\bin\Debug\net8.0-windows\vb.dll
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\bin\Debug\net8.0-windows\vb.pdb
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.dll
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\refint\vb.dll
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.pdb
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\vb.genruntimeconfig.cache
+C:\Users\zorma\OneDrive\Masaüstü\vb\vb\obj\Debug\net8.0-windows\ref\vb.dll
